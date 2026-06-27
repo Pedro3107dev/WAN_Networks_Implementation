@@ -2,13 +2,6 @@
 
 ## "Implementación de redes de área amplia y servicios distribuidos"
 
-![Tecnológico de Monterrey](https://img.shields.io/badge/Tec%20de%20Monterrey-ITC-1A3A5C?style=flat)
-![Semestre](https://img.shields.io/badge/Semestre-8vo-blue?style=flat)
-![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen?style=flat)
-![Herramienta](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat)
-
----
-
 ## Author: Pedro Mauri Martínez - A01029143
 
 ## Abstract
